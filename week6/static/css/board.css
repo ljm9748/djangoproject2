@@ -1,0 +1,81 @@
+html body {
+    margin: 0;
+    height: 2000px;
+}
+a{
+    text-decoration:none;
+}
+.container{
+    font-family: Roboto; 
+    background-color : #eeeac5; text-align: center; width:650px; height:120px;
+}
+.secondcontainer{
+    background-color: rgb(240, 231, 190); text-align: center; width:650px; height : 200px;
+}
+
+.thirdcontainer{
+     background-color: #BBD9EE; text-align: center; height : 700px;
+}
+
+#contactme{
+    font-family: Roboto; 
+    color : white;
+    background-color : #d4c111; text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+
+}
+
+#face-book{
+
+    margin: 30px 30px; 
+    font-family: 'Roboto Mono', monospace;
+    color : hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 30px;
+    border-radius: 12px;
+
+}
+#copywrite{
+
+
+    font-family: Roboto; 
+    color : rgb(239, 235, 240);
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+
+#first{
+    color : #19180a ;
+    font-family: 'Roboto Mono', monospace;
+}
+#first2{
+    color : #fffffd ;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+#second{
+    color : black;
+    font-family: Roboto; 
+    text-align: center;
+}
+#center {
+    text-align: center;
+}
+#profilepic {
+    height : 200px; border-radius : 50%;
+}
+
+div {
+    width: 60%;
+    height: 450px;
+    border: 1px solid #ffffff1e;
+  }
+  .a {
+    background-image: url( "images/boardimg.jpg" );
+    background-repeat: no-repeat;
+    background-position: 0% 0px;
+  }
